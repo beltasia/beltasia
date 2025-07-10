@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @beltasia<br/>
 - 👀 I’m interested in learning code..<br/>
-- 🌱 I’m awaiting graduation at Catholic University<br/>
 - 💞️ I’m looking to collaborate on a system<br/>  
 - 📫 How to reach me sialumbamelissa@gmail.com
 
